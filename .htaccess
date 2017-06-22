@@ -1,0 +1,13 @@
+RewriteEngine On
+
+RewriteRule ^connexion?$                        login.php
+RewriteRule ^login?$                            login.php
+RewriteRule ^/?$                                index.php
+RewriteRule ^accueil?$                                index.php
+
+
+
+RewriteRule ^fiche_article?(.+)$               detailsArticles.php?id=$1 [NC,L]
+RewriteRule ^details_br_(.+)$                   printBRs.php?id=$1 [NC,L]
+
+RewriteRule ^user/([0-9]+) user.php?id=$1
