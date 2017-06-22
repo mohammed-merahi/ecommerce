@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parametres>
+  <themes>
+      <titre>Mon site ecommerce</titre>
+      <theme>Google</theme>
+      <logo>K-distri-www.gif</logo>
+      <favicon>favicon-32x32 (1).png</favicon>
+      <banner>9e18f667f7c5715c2755e2edd442ecbc.jpg</banner>
+	  <backgroundImage>08.jpg</backgroundImage>
+	  <dashboard>Modèle 1</dashboard>
+	  <pharmacien>Oui</pharmacien>
+	  <profile>avatar.png</profile>
+	  <cover>profile.jpg</cover>
+  </themes>
+  
+  <affichage>
+      <boutique>
+          <banner>IMD_2013_tri.jpg</banner>
+          <modesAffichage>
+              <grille>Oui</grille>
+              <liste>Oui</liste>
+              <tableauAvecImg>Oui</tableauAvecImg>
+              <tableauSansImg>Oui</tableauSansImg>
+          </modesAffichage>
+          <produitsParPage>3</produitsParPage>
+          <produitsNonDispo>Non</produitsNonDispo>
+		  <tva>19.00</tva>
+		  <fraisLivraison>1850</fraisLivraison>
+      </boutique>
+      
+      <about>
+          <banner>ecommerce-banner.jpg</banner>
+          <societe>Ma société</societe>
+          <slogan>We are who we are and we do what we do better than anybody else</slogan>
+          <image>image_about5.jpg</image>
+          <description>&lt;div class="rich-text-editor component component--inline" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin-top: 0px; margin-bottom: 0px; font-family: knowledge-text-n3, knowledge, Arial, sans-serif; line-height: 1.15; text-rendering: optimizeLegibility; color: rgb(85, 85, 85); font-size: 16px;"&gt;&lt;p class="feature" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin-bottom: 0.9em; line-height: 1.15; text-rendering: optimizeLegibility; font-size: 24px; max-width: 100%;"&gt;Thomson Reuters provides professionals with the intelligence, technology and human expertise they need to find trusted answers.&lt;/p&gt;&lt;/div&gt;&lt;div class="rich-text-editor" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-family: knowledge-text-n3, knowledge, Arial, sans-serif; line-height: 1.15; text-rendering: optimizeLegibility; color: rgb(85, 85, 85); font-size: 16px;"&gt;&lt;p style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin-bottom: 0.9em; max-width: 100%;"&gt;We enable professionals in&amp;nbsp;the financial and risk, legal, tax and accounting, and media markets to make the decisions that matter most, all powered by the world's most trusted news organization.&lt;/p&gt;&lt;p style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin-bottom: 0.9em; max-width: 100%;"&gt;Thomson Reuters shares are listed on the Toronto and New York Stock Exchanges (symbol: TRI).&lt;/p&gt;&lt;/div&gt;</description>
+		  <description2>We enable professionals in the financial and risk, legal, tax and accounting, and media markets to make the decisions that matter most, all powered by the world's most trusted news organization.</description2>	
+	  </about>
+      
+      <contact>
+          <banner>banner_about.jpg</banner>
+          <adresse>Cité des frères Ababsa, Sétiff</adresse>
+          <ville>Sétif</ville>
+          <postal>19000</postal>
+          <fixe>036.21.58.544</fixe>
+          <mobile>(00213)770.70.11.99</mobile>
+          <email>contact@masociete.com</email>
+          <email2>info@gmail.com</email2>
+		  <googleMaps>
+			  <latitude>36.252372</latitude>
+			  <longitude>6.569417</longitude>
+		  </googleMaps>
+          <facebook>http://www.fb.com</facebook>
+          <googleplus>http://www.google.com</googleplus>
+          <twitter>http://www.twitter.com</twitter>
+      </contact>
+	  
+  </affichage>
+
+  <seo>
+	  <metaDescription>description de mon entrpeise</metaDescription>
+	  <keywords>keyword1;keyword2;keyword3;keyword4</keywords>
+  </seo>
+  
+  <paiement> </paiement>
+  
+</parametres>
